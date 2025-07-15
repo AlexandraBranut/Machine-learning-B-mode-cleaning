@@ -12,7 +12,8 @@ Implements two neural-network based methods for cleaning foregrounds in CMB B-mo
 ## Files
 - `models.py`          — SF-NN & VAR-NN code  
 - `data_pipeline.py`   — simulation & ILC utility functions  
-- `train.py`           — quickstart training skeleton  
+- `train.py`           — training skeleton
+- `plots.py`           - main plots and analysis methods
 - `utils.py`           — save/load helpers  
 - `requirements.txt`   — dependencies  
 
